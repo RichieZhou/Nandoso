@@ -26,3 +26,15 @@ C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin
 C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\obj\Debug\Nandoso.csprojResolveAssemblyReference.cache
 C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\obj\Debug\Nandoso.dll
 C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\obj\Debug\Nandoso.pdb
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.Owin.dll
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.Owin.Security.dll
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Owin.dll
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.Owin.xml
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ZhouR\OneDrive\Documents\GitHubVisualStudio\Nandoso\Nandoso\Nandoso\bin\Microsoft.Owin.Security.xml
